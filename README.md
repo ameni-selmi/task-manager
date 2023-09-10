@@ -3,12 +3,12 @@ Our app makes it easy to keep track of all your tasks and stay organized. With o
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/d46925de-5942-4b51-9bf3-d38a9c564769.png"></td>
-    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/955ceac1-0cfa-4a29-abf9-7c3d2a227f5d.png"></td>
-    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/60855c46-cf45-4008-8e37-8c46a33ee42b.png"></td>
+    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/f8fc1b49-54b1-4e8b-aff5-2801a7f0ea75"></td>
+    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/d7c8dae8-0055-4e8d-8ddb-5087e212f5a6"></td>
+    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/f4f30720-b6c8-4ed0-84b3-a3af6c646092"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/ecbafdd8-801a-4ab3-a3ca-f162996e49f8.png"></td>
-    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/77b34816-5333-4331-bfa4-b2a2e0ae191f.png"></td>
+    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/b9b8d62b-42b6-43b5-b227-31e43bfabbf7"></td>
+    <td><img src="https://github.com/ameni-selmi/task-manager/assets/53795935/9b9f802a-9966-4b41-a02b-97d44a14093a"></td>
   </tr>
 </table>
